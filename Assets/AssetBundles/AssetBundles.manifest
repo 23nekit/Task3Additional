@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 247265699
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bigmodel
+      Dependencies: {}

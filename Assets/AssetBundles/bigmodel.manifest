@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4237045913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 219a5a594a1a4c93a7e2b420f471bfed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 189c67be046381df80747369bc2412df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed091657a4e126144b92f45a01221670, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/storage.prefab
+Dependencies: []
